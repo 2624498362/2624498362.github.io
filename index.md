@@ -1,0 +1,4 @@
+# **C++** 速查笔记
+
+> Where there is a will,there is a way.
+> 
